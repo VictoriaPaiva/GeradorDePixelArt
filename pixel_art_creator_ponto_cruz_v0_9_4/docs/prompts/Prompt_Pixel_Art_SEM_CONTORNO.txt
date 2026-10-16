@@ -1,0 +1,69 @@
+Use a imagem anexada como REFERÊNCIA DE COMPOSIÇÃO E RECONHECIMENTO e transforme-a em uma ILUSTRAÇÃO DE PIXEL ART DESENHADA.
+
+PRIORIDADE DE ESTILO
+- O resultado deve parecer uma ilustração em pixel art criada a partir da fotografia, e NÃO uma fotografia simplesmente pixelizada.
+- Priorize uma linguagem visual mais artística, desenhada, colorida e intencional.
+- Use as cores reais da fotografia apenas como ponto de partida. Não é necessário reproduzir fielmente os tons exatos da foto.
+- Você pode aumentar saturação, contraste, temperatura e separação entre famílias de cores quando isso deixar a imagem mais bonita, expressiva e legível.
+- Preserve fielmente apenas cores que sejam realmente importantes para identificar o sujeito ou um elemento característico, como coleiras, roupas, manchas, acessórios ou objetos marcantes.
+- A paleta pode se afastar das cores fotográficas para ganhar aparência de desenho, desde que a identidade geral da cena continue clara.
+
+REGRAS DE FIDELIDADE
+- Preserve o enquadramento, a composição, a pose, a silhueta, as proporções e os elementos principais da imagem.
+- Preserve características importantes para o reconhecimento do sujeito: formato do rosto/corpo, expressão, posição, acessórios, manchas, coleiras, roupas, objetos e demais detalhes característicos.
+- Não altere desnecessariamente a direção da luz, a relação entre os elementos ou a atmosfera geral da cena.
+- A fidelidade à COMPOSIÇÃO e ao RECONHECIMENTO é mais importante do que a fidelidade cromática exata à fotografia.
+
+ESTILO VISUAL ILUSTRADO
+- Quero uma pixel art com aparência de desenho/ilustração, e não apenas uma foto passada por filtro de pixelização.
+- Use cores mais vivas, alegres, expressivas e harmoniosas, sem transformar a imagem em neon artificial.
+- Trabalhe com sombras, meios-tons e luzes claramente diferenciados.
+- Prefira transições perceptíveis entre os tons. Evite criar muitas cores quase iguais lado a lado, pois isso gera aparência borrada e excessivamente fotográfica.
+- Simplifique deliberadamente detalhes fotográficos pequenos e reconstrua-os como formas gráficas maiores e mais legíveis.
+- Em vez de reproduzir cada irregularidade da foto, organize a imagem em massas de cor, mechas, planos, sombras e formas desenhadas.
+- Em áreas grandes, mantenha variações suficientes de sombra, luz e textura para preservar volume. Evite transformar regiões importantes em grandes blocos chapados de uma única cor.
+- Textura deve ser seletiva: use onde ajuda a representar pelo, cabelo, tecido, vegetação, madeira, pele ou outros materiais, mas sem criar ruído aleatório.
+
+PELOS, CABELOS E TEXTURAS ORGÂNICAS
+- Não tente reproduzir cada fio individual de pelo ou cabelo.
+- Agrupe fios em mechas, massas e grupos de pixels maiores, com poucos tons bem diferenciados para sugerir direção, volume e textura.
+- Preserve o desenho geral das áreas claras, escuras e coloridas sem tentar copiar cada microfio da fotografia.
+- Em vegetação, grama e fundos com muito detalhe, simplifique pequenos elementos em padrões gráficos de pixel art. Não tente reproduzir cada folha ou fio de grama.
+
+REGRAS DOS PIXELS
+- Cada quadradinho/bloco visível da pixel art deve ter UMA ÚNICA COR SÓLIDA.
+- Não misture duas ou mais cores dentro do mesmo quadradinho.
+- Não use gradientes suaves dentro dos pixels.
+- Não use anti-aliasing visual, esfumaçado, blur, pintura aerografada ou bordas borradas.
+- Quando houver um degradê na imagem original, converta-o em degraus/faixas de cor claramente perceptíveis.
+- Os pixels podem formar pequenos grupos e padrões para criar textura e volume, mas cada pixel individual deve continuar com cor sólida.
+
+LUZ E DETALHES
+- Preserve pontos de luz apenas quando existirem na referência ou forem realmente importantes para representar o volume.
+- NÃO adicione brilhos, reflexos, pontinhos brancos ou pontos de luz decorativos desnecessários.
+- Em olhos, nariz, pele, cabelo, pelo e objetos brilhantes, não invente reflexos que não estejam presentes ou justificáveis pela referência.
+- Evite excesso de pontos claros especialmente em pessoas e animais.
+- Preserve detalhes importantes sem tentar representar cada microdetalhe da foto.
+
+COMPOSIÇÃO DA PALETA
+- Use diferenças de cor suficientemente claras para que sombra, meio-tom e luz continuem legíveis depois da redução da paleta.
+- Evite sequências longas de tons quase idênticos.
+- Se duas cores muito próximas puderem ser representadas por uma única cor sem perda visual importante, prefira simplificar.
+- Use mudanças cromáticas artísticas quando ajudarem a diferenciar planos e volumes.
+- Preserve especialmente cores marcantes do sujeito ou de acessórios importantes, mas deixe as demais cores mais livres para interpretação artística.
+
+RESULTADO ESPERADO
+- A imagem deve continuar claramente reconhecível em relação à referência.
+- Deve parecer uma pixel art artística, desenhada e intencional.
+- Deve ter uma paleta mais viva e ilustrada do que a fotografia original.
+- Deve ter boa separação entre formas, cores e volumes.
+- Deve evitar aparência excessivamente realista/fotográfica.
+- Não precisa ter exatamente 100×100 pixels; a conversão para a matriz lógica 100×100 será feita posteriormente pelo nosso sistema.
+- Não inclua textos, legendas, molduras ou elementos que não existam na imagem original.
+
+CONTORNO
+- NÃO adicione contorno preto ou linha externa ao redor do personagem, animal, objeto ou demais elementos.
+- Não transforme as bordas em line art.
+- Separe as formas usando contraste entre as próprias cores, sombras e luzes da imagem.
+- Se a referência já tiver alguma linha naturalmente escura, ela pode ser preservada apenas onde realmente existir visualmente.
+- O resultado deve manter uma aparência natural dentro do estilo pixel art, sem parecer um desenho contornado.

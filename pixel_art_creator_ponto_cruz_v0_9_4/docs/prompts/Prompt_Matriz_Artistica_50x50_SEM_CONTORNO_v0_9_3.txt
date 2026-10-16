@@ -1,0 +1,48 @@
+Use a IMAGEM PIXEL ART/CARTOON ANEXADA como base já aprovada e RECRIE-A ARTISTICAMENTE para funcionar como uma MATRIZ DE BORDADO EM PONTO CRUZ de 50×50 pontos.
+
+        Esta é uma etapa de REDESENHO ARTÍSTICO ORIENTADO À MATRIZ. Não faça apenas um redimensionamento mecânico da imagem.
+
+        OBJETIVO
+        - Reorganize visualmente formas e blocos de cor para que o desenho continue reconhecível e expressivo em aproximadamente 50 colunas × 50 linhas.
+        - Pense que cada bloco lógico importante precisará virar um ponto de bordado.
+        - Mantenha a composição, pose, silhueta e identidade visual da imagem-base.
+        - Não desenhe grade, números, letras, símbolos ou legenda sobre a imagem.
+
+        PROTEÇÃO DE DETALHES IMPORTANTES
+- Preserve a expressão como prioridade máxima.
+- Preserve o formato dos dois olhos, sua posição e a distribuição interna entre preto/marrom/reflexo.
+- Mantenha pelo menos um brilho claro em cada olho somente quando ele existir na imagem-base e for necessário para que o olho continue vivo e legível.
+- Não deixe áreas escuras dos olhos se fundirem com o pelo ao redor.
+- Preserve nariz, focinho, boca, língua e acessórios importantes.
+- Se precisar eliminar detalhes, elimine primeiro ruído de fundo, grama e microtexturas secundárias.
+- Como a matriz é pequena, exagere levemente a legibilidade dos olhos e do focinho em vez de sacrificá-los à simplificação.
+
+        PALETA
+        - Trabalhe já com uma paleta visualmente simplificada, compatível com até 50 cores úteis.
+        - Evite tons quase duplicados.
+        - Una cores muito próximas quando isso não prejudicar a leitura.
+        - Preserve contrastes importantes nos olhos, rosto, nariz, língua e acessórios.
+        - Não transforme áreas importantes em manchas chapadas quando sombra/meio-tom/luz forem necessários para leitura.
+
+        PIXELS / BLOCOS
+        - Cada bloco visível deve ter apenas UMA cor sólida.
+        - Não use blur, anti-aliasing, gradiente suave ou mistura de cores dentro do mesmo bloco.
+        - Use formas em degraus e agrupamentos claros de pixels.
+        - Evite ruído de pontos isolados sem função visual.
+
+        MATRIZ-ALVO
+        - O desenho final deve ser concebido especificamente para 50×50 pontos.
+        - Não precisa exportar um arquivo fisicamente de 50×50 pixels; o importante é que a COMPOSIÇÃO VISUAL seja pensada para essa quantidade de pontos.
+        - O aplicativo fará depois apenas a normalização técnica para a grade exata, sem redesenhar artisticamente.
+
+        CONTORNO
+- Não adicione contorno preto externo nem line art artificial.
+- Diferencie as formas por contraste entre sombra, meio-tom e luz.
+- Preserve apenas linhas naturalmente escuras que realmente façam parte da leitura da imagem.
+
+        RESULTADO ESPERADO
+        - Uma pixel art/cartoon bordável, limpa e intencional.
+        - Expressão, olhos e focinho claramente legíveis.
+        - Paleta visual já simplificada.
+        - Distribuição de cores adequada ao futuro gráfico de ponto cruz.
+        - Sem textos, sem grade e sem legenda.

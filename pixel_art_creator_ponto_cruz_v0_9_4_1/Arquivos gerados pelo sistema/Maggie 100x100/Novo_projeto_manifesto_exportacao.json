@@ -1,0 +1,53 @@
+{
+  "project": "Novo projeto",
+  "grid": "100x100",
+  "points": 10000,
+  "colors": 50,
+  "files": [
+    {
+      "key": "matrix",
+      "label": "Matriz técnica",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_matriz_100x100.png"
+    },
+    {
+      "key": "preview",
+      "label": "Preview ampliado",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_preview.png"
+    },
+    {
+      "key": "grid",
+      "label": "Imagem com grade simples",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_com_grade.png"
+    },
+    {
+      "key": "pattern_color",
+      "label": "Grade colorida com códigos",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_grafico_colorido_100x100.png"
+    },
+    {
+      "key": "pattern_symbols",
+      "label": "Grade para impressão com códigos",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_grafico_codigos_100x100.png"
+    },
+    {
+      "key": "legend_png",
+      "label": "Legenda PNG",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_legenda.png"
+    },
+    {
+      "key": "legend_json",
+      "label": "Legenda JSON",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_legenda.json"
+    },
+    {
+      "key": "legend_csv",
+      "label": "Legenda CSV",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_legenda.csv"
+    },
+    {
+      "key": "legend_txt",
+      "label": "Legenda TXT",
+      "path": "D:\\Projetos\\Pixel Art\\GeradorDePixelArt\\pixel_art_creator_ponto_cruz_v0_9_4_1\\Arquivos gerados pelo sistema\\Novo_projeto_legenda.txt"
+    }
+  ]
+}
