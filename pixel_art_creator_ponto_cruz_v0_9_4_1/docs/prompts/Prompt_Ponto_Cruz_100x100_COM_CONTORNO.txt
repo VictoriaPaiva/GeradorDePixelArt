@@ -1,0 +1,50 @@
+Use a imagem anexada como referência e transforme-a em uma ILUSTRAÇÃO EM PIXEL ART/CARTOON pensada como BASE PARA UM GRÁFICO DE BORDADO EM PONTO CRUZ.
+
+        O objetivo não é reproduzir a fotografia pixel por pixel. O objetivo é criar uma versão desenhada, simplificada, colorida e claramente reconhecível, que sirva como base para um futuro gráfico de bordado.
+
+        PRIORIDADES GERAIS
+        - Preserve composição, enquadramento, pose, proporções, silhueta, expressão e elementos característicos.
+        - Preserve cores realmente importantes para reconhecer o sujeito, mas trate as demais cores com liberdade artística.
+        - Use uma paleta mais viva, alegre e ilustrada do que a fotografia, sem transformar a imagem em neon artificial.
+        - Simplifique detalhes fotográficos pequenos.
+        - Agrupe pelos, cabelos, vegetação e outras texturas em mechas, massas e formas gráficas maiores.
+        - Organize sombra, meio-tom e luz em faixas claramente diferenciadas.
+        - Evite muitas nuances quase iguais lado a lado.
+        - Evite ruído de pequenos detalhes isolados que não seriam úteis em um bordado.
+
+        PALETA E CORES
+        - Trabalhe pensando em aproximadamente até 50 cores principais ou famílias cromáticas úteis para o bordado.
+        - Não precisa contar matematicamente as cores, mas a imagem deve ficar compatível com uma futura limitação próxima desse valor.
+        - Se duas cores muito próximas puderem ser representadas por uma só sem perda importante, prefira simplificar.
+        - Preserve especialmente os contrastes importantes do rosto, olhos, nariz, boca/língua e acessórios.
+
+        PIXELS E ACABAMENTO
+        - Cada bloco/pixel visível deve ter uma única cor sólida.
+        - Não use blur, anti-aliasing, gradientes suaves nem mistura de cores dentro do mesmo bloco.
+        - Não invente brilhos, reflexos ou pontos de luz decorativos.
+        - Preserve apenas os pontos de luz realmente necessários para a leitura do volume e da expressão.
+        - Não adicione textos, grade, números, símbolos ou legenda.
+
+        EXPRESSÃO E LEITURA
+        - Dê atenção especial à expressão do rosto e à leitura dos olhos.
+        - Os olhos devem continuar claramente visíveis, com boa distribuição dos tons escuros e claros, evitando a sensação de olhos apagados ou deformados.
+        - O nariz, a boca e demais pontos de foco devem permanecer reconhecíveis e bem organizados.
+
+        MATRIZ-ALVO
+- Pense a imagem já orientada para uma grade final de 100×100 pontos (10000 células).
+- Não desenhe grade, números, letras, símbolos, legenda ou marcações por cima da imagem.
+- Distribua formas, volumes e manchas de cor de modo que continuem legíveis quando a imagem for convertida para essa grade.
+- Como a escala é maior, você pode manter mais detalhe estrutural, mas ainda com leitura limpa e organizada.
+- Preserve melhor a expressão, o brilho natural dos olhos e a distribuição dos tons do rosto.
+- Mesmo com mais detalhe, continue evitando excesso de nuances quase idênticas e ruído fotográfico.
+
+        CONTORNO
+- Adicione contorno seletivo apenas onde ele realmente ajudar a leitura do bordado.
+- Prefira contornos em tons escuros harmonizados com a própria paleta, em vez de preto puro em toda a imagem.
+- Não contorne cada detalhe interno.
+- Não use linhas excessivamente grossas.
+
+        IMPORTANTE
+        - Gere uma imagem final limpa, artística e intencional, pronta para servir de base a um gráfico de ponto cruz.
+        - Não desenhe a grade do bordado por cima da imagem.
+        - O sistema fará depois a parte técnica de grade exata, paleta detalhada, legenda e exportação.

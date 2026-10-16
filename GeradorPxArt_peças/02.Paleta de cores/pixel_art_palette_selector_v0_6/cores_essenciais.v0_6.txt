@@ -1,0 +1,78 @@
+CORES ESSENCIAIS POR ÁREA
+==================================================
+
+[Olhos]
+A | #101014 | RGB(16, 16, 20)
+F | #542A1C | RGB(84, 42, 28)
+L | #F5F5F6 | RGB(245, 245, 246)
+I | #3E4557 | RGB(62, 69, 87)
+
+[Língua]
+A | #E0425E | RGB(224, 66, 94)
+C | #7D252B | RGB(125, 37, 43)
+F | #F16284 | RGB(241, 98, 132)
+I | #FA8CAA | RGB(250, 140, 170)
+
+[Nariz]
+A | #101116 | RGB(16, 17, 22)
+D | #494E60 | RGB(73, 78, 96)
+I | #7783A3 | RGB(119, 131, 163)
+
+[Coleira]
+E | #0D8AE7 | RGB(13, 138, 231)
+R | #0885E9 | RGB(8, 133, 233)
+Q | #0B5D95 | RGB(11, 93, 149)
+G | #073568 | RGB(7, 53, 104)
+
+[Pelagem nariz]
+A | #FDFCFB | RGB(253, 252, 251)
+H | #DFDFE5 | RGB(223, 223, 229)
+D | #F9DEC1 | RGB(249, 222, 193)
+
+[Pelagem testa]
+H | #9C572D | RGB(156, 87, 45)
+A | #D98A4E | RGB(217, 138, 78)
+F | #E0965A | RGB(224, 150, 90)
+C | #B56938 | RGB(181, 105, 56)
+
+[Pelagem olheira]
+D | #623622 | RGB(98, 54, 34)
+A | #6F3E25 | RGB(111, 62, 37)
+
+[Pelagem cabelo branco]
+A | #FCFCFC | RGB(252, 252, 252)
+B | #FDF9F2 | RGB(253, 249, 242)
+H | #DADCE5 | RGB(218, 220, 229)
+Ad | #FCF3E1 | RGB(252, 243, 225)
+K | #CFD2DD | RGB(207, 210, 221)
+
+[Pelagem cabelo cinza]
+A | #B3AAA6 | RGB(179, 170, 166)
+C | #33353D | RGB(51, 53, 61)
+L | #B8A99D | RGB(184, 169, 157)
+I | #C8BEB9 | RGB(200, 190, 185)
+
+[Pelagem peito]
+A | #EAE9E6 | RGB(234, 233, 230)
+B | #FBFAF9 | RGB(251, 250, 249)
+C | #DCDBD7 | RGB(220, 219, 215)
+
+[Pelagem corpo]
+A | #121419 | RGB(18, 20, 25)
+B | #24262D | RGB(36, 38, 45)
+F | #4C4D59 | RGB(76, 77, 89)
+I | #373944 | RGB(55, 57, 68)
+
+[Grama]
+A | #276630 | RGB(39, 102, 48)
+E | #307232 | RGB(48, 114, 50)
+I | #62A139 | RGB(98, 161, 57)
+H | #BED550 | RGB(190, 213, 80)
+G | #235E2D | RGB(35, 94, 45)
+
+[Sorriso]
+B | #251415 | RGB(37, 20, 21)
+F | #4D2E1D | RGB(77, 46, 29)
+G | #522620 | RGB(82, 38, 32)
+D | #41221C | RGB(65, 34, 28)
+C | #371F19 | RGB(55, 31, 25)

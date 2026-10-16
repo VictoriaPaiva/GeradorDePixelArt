@@ -1,0 +1,652 @@
+[
+  {
+    "area": "Olhos",
+    "code": "A",
+    "hex": "#101014",
+    "rgb": [
+      16,
+      16,
+      20
+    ],
+    "count_in_area": 1963,
+    "percent_in_area": 27.454545454545453,
+    "grouped_nuances": 393
+  },
+  {
+    "area": "Olhos",
+    "code": "F",
+    "hex": "#542A1C",
+    "rgb": [
+      84,
+      42,
+      28
+    ],
+    "count_in_area": 239,
+    "percent_in_area": 3.3426573426573425,
+    "grouped_nuances": 132
+  },
+  {
+    "area": "Olhos",
+    "code": "L",
+    "hex": "#F5F5F6",
+    "rgb": [
+      245,
+      245,
+      246
+    ],
+    "count_in_area": 157,
+    "percent_in_area": 2.195804195804196,
+    "grouped_nuances": 98
+  },
+  {
+    "area": "Olhos",
+    "code": "I",
+    "hex": "#3E4557",
+    "rgb": [
+      62,
+      69,
+      87
+    ],
+    "count_in_area": 173,
+    "percent_in_area": 2.4195804195804196,
+    "grouped_nuances": 115
+  },
+  {
+    "area": "Nariz",
+    "code": "A",
+    "hex": "#101116",
+    "rgb": [
+      16,
+      17,
+      22
+    ],
+    "count_in_area": 2059,
+    "percent_in_area": 24.876162860939953,
+    "grouped_nuances": 191
+  },
+  {
+    "area": "Nariz",
+    "code": "D",
+    "hex": "#494E60",
+    "rgb": [
+      73,
+      78,
+      96
+    ],
+    "count_in_area": 469,
+    "percent_in_area": 5.666304216503564,
+    "grouped_nuances": 182
+  },
+  {
+    "area": "Nariz",
+    "code": "I",
+    "hex": "#7783A3",
+    "rgb": [
+      119,
+      131,
+      163
+    ],
+    "count_in_area": 218,
+    "percent_in_area": 2.6338045185453667,
+    "grouped_nuances": 147
+  },
+  {
+    "area": "Língua",
+    "code": "A",
+    "hex": "#E0425E",
+    "rgb": [
+      224,
+      66,
+      94
+    ],
+    "count_in_area": 816,
+    "percent_in_area": 6.488033712332035,
+    "grouped_nuances": 368
+  },
+  {
+    "area": "Língua",
+    "code": "C",
+    "hex": "#7D252B",
+    "rgb": [
+      125,
+      37,
+      43
+    ],
+    "count_in_area": 533,
+    "percent_in_area": 4.237894569452175,
+    "grouped_nuances": 226
+  },
+  {
+    "area": "Língua",
+    "code": "F",
+    "hex": "#F16284",
+    "rgb": [
+      241,
+      98,
+      132
+    ],
+    "count_in_area": 448,
+    "percent_in_area": 3.5620577244175875,
+    "grouped_nuances": 275
+  },
+  {
+    "area": "Língua",
+    "code": "I",
+    "hex": "#FA8CAA",
+    "rgb": [
+      250,
+      140,
+      170
+    ],
+    "count_in_area": 295,
+    "percent_in_area": 2.3455514033553313,
+    "grouped_nuances": 176
+  },
+  {
+    "area": "Pelagem nariz",
+    "code": "A",
+    "hex": "#FDFCFB",
+    "rgb": [
+      253,
+      252,
+      251
+    ],
+    "count_in_area": 3814,
+    "percent_in_area": 29.143424772675175,
+    "grouped_nuances": 336
+  },
+  {
+    "area": "Pelagem nariz",
+    "code": "H",
+    "hex": "#DFDFE5",
+    "rgb": [
+      223,
+      223,
+      229
+    ],
+    "count_in_area": 382,
+    "percent_in_area": 2.9189271796439216,
+    "grouped_nuances": 181
+  },
+  {
+    "area": "Pelagem nariz",
+    "code": "D",
+    "hex": "#F9DEC1",
+    "rgb": [
+      249,
+      222,
+      193
+    ],
+    "count_in_area": 724,
+    "percent_in_area": 5.532207534194238,
+    "grouped_nuances": 304
+  },
+  {
+    "area": "Pelagem testa",
+    "code": "H",
+    "hex": "#9C572D",
+    "rgb": [
+      156,
+      87,
+      45
+    ],
+    "count_in_area": 597,
+    "percent_in_area": 6.056609516079943,
+    "grouped_nuances": 256
+  },
+  {
+    "area": "Pelagem testa",
+    "code": "A",
+    "hex": "#D98A4E",
+    "rgb": [
+      217,
+      138,
+      78
+    ],
+    "count_in_area": 1253,
+    "percent_in_area": 12.71177843157147,
+    "grouped_nuances": 444
+  },
+  {
+    "area": "Pelagem testa",
+    "code": "F",
+    "hex": "#E0965A",
+    "rgb": [
+      224,
+      150,
+      90
+    ],
+    "count_in_area": 703,
+    "percent_in_area": 7.131987420107539,
+    "grouped_nuances": 323
+  },
+  {
+    "area": "Pelagem testa",
+    "code": "C",
+    "hex": "#B56938",
+    "rgb": [
+      181,
+      105,
+      56
+    ],
+    "count_in_area": 941,
+    "percent_in_area": 9.546515166886477,
+    "grouped_nuances": 329
+  },
+  {
+    "area": "Pelagem olheira",
+    "code": "D",
+    "hex": "#623622",
+    "rgb": [
+      98,
+      54,
+      34
+    ],
+    "count_in_area": 444,
+    "percent_in_area": 5.918421754198881,
+    "grouped_nuances": 241
+  },
+  {
+    "area": "Pelagem olheira",
+    "code": "A",
+    "hex": "#6F3E25",
+    "rgb": [
+      111,
+      62,
+      37
+    ],
+    "count_in_area": 642,
+    "percent_in_area": 8.557717941882165,
+    "grouped_nuances": 249
+  },
+  {
+    "area": "Pelagem cabelo branco",
+    "code": "A",
+    "hex": "#FCFCFC",
+    "rgb": [
+      252,
+      252,
+      252
+    ],
+    "count_in_area": 5206,
+    "percent_in_area": 26.975490958080727,
+    "grouped_nuances": 306
+  },
+  {
+    "area": "Pelagem cabelo branco",
+    "code": "B",
+    "hex": "#FDF9F2",
+    "rgb": [
+      253,
+      249,
+      242
+    ],
+    "count_in_area": 1848,
+    "percent_in_area": 9.57562568008705,
+    "grouped_nuances": 285
+  },
+  {
+    "area": "Pelagem cabelo branco",
+    "code": "H",
+    "hex": "#DADCE5",
+    "rgb": [
+      218,
+      220,
+      229
+    ],
+    "count_in_area": 731,
+    "percent_in_area": 3.7877610238872483,
+    "grouped_nuances": 303
+  },
+  {
+    "area": "Pelagem cabelo branco",
+    "code": "Ad",
+    "hex": "#FCF3E1",
+    "rgb": [
+      252,
+      243,
+      225
+    ],
+    "count_in_area": 41,
+    "percent_in_area": 0.21244624073786206,
+    "grouped_nuances": 41
+  },
+  {
+    "area": "Pelagem cabelo branco",
+    "code": "K",
+    "hex": "#CFD2DD",
+    "rgb": [
+      207,
+      210,
+      221
+    ],
+    "count_in_area": 502,
+    "percent_in_area": 2.6011710451318724,
+    "grouped_nuances": 229
+  },
+  {
+    "area": "Pelagem cabelo cinza",
+    "code": "A",
+    "hex": "#B3AAA6",
+    "rgb": [
+      179,
+      170,
+      166
+    ],
+    "count_in_area": 1292,
+    "percent_in_area": 4.216985442914028,
+    "grouped_nuances": 273
+  },
+  {
+    "area": "Pelagem cabelo cinza",
+    "code": "C",
+    "hex": "#33353D",
+    "rgb": [
+      51,
+      53,
+      61
+    ],
+    "count_in_area": 1044,
+    "percent_in_area": 3.407533128794308,
+    "grouped_nuances": 199
+  },
+  {
+    "area": "Pelagem cabelo cinza",
+    "code": "L",
+    "hex": "#B8A99D",
+    "rgb": [
+      184,
+      169,
+      157
+    ],
+    "count_in_area": 620,
+    "percent_in_area": 2.0236307852993014,
+    "grouped_nuances": 174
+  },
+  {
+    "area": "Pelagem cabelo cinza",
+    "code": "I",
+    "hex": "#C8BEB9",
+    "rgb": [
+      200,
+      190,
+      185
+    ],
+    "count_in_area": 791,
+    "percent_in_area": 2.5817612115673345,
+    "grouped_nuances": 195
+  },
+  {
+    "area": "Coleira",
+    "code": "E",
+    "hex": "#0D8AE7",
+    "rgb": [
+      13,
+      138,
+      231
+    ],
+    "count_in_area": 522,
+    "percent_in_area": 2.498922878069797,
+    "grouped_nuances": 206
+  },
+  {
+    "area": "Coleira",
+    "code": "R",
+    "hex": "#0885E9",
+    "rgb": [
+      8,
+      133,
+      233
+    ],
+    "count_in_area": 235,
+    "percent_in_area": 1.1249940159892768,
+    "grouped_nuances": 104
+  },
+  {
+    "area": "Coleira",
+    "code": "Q",
+    "hex": "#0B5D95",
+    "rgb": [
+      11,
+      93,
+      149
+    ],
+    "count_in_area": 248,
+    "percent_in_area": 1.1872277275120877,
+    "grouped_nuances": 78
+  },
+  {
+    "area": "Coleira",
+    "code": "G",
+    "hex": "#073568",
+    "rgb": [
+      7,
+      53,
+      104
+    ],
+    "count_in_area": 406,
+    "percent_in_area": 1.9436066829431757,
+    "grouped_nuances": 180
+  },
+  {
+    "area": "Pelagem peito",
+    "code": "A",
+    "hex": "#EAE9E6",
+    "rgb": [
+      234,
+      233,
+      230
+    ],
+    "count_in_area": 4974,
+    "percent_in_area": 25.813482796201153,
+    "grouped_nuances": 539
+  },
+  {
+    "area": "Pelagem peito",
+    "code": "B",
+    "hex": "#FBFAF9",
+    "rgb": [
+      251,
+      250,
+      249
+    ],
+    "count_in_area": 3110,
+    "percent_in_area": 16.13991385126369,
+    "grouped_nuances": 263
+  },
+  {
+    "area": "Pelagem peito",
+    "code": "C",
+    "hex": "#DCDBD7",
+    "rgb": [
+      220,
+      219,
+      215
+    ],
+    "count_in_area": 2135,
+    "percent_in_area": 11.079973013648866,
+    "grouped_nuances": 517
+  },
+  {
+    "area": "Pelagem corpo",
+    "code": "A",
+    "hex": "#121419",
+    "rgb": [
+      18,
+      20,
+      25
+    ],
+    "count_in_area": 7206,
+    "percent_in_area": 18.951188722911848,
+    "grouped_nuances": 220
+  },
+  {
+    "area": "Pelagem corpo",
+    "code": "B",
+    "hex": "#24262D",
+    "rgb": [
+      36,
+      38,
+      45
+    ],
+    "count_in_area": 6528,
+    "percent_in_area": 17.16810435514412,
+    "grouped_nuances": 299
+  },
+  {
+    "area": "Pelagem corpo",
+    "code": "F",
+    "hex": "#4C4D59",
+    "rgb": [
+      76,
+      77,
+      89
+    ],
+    "count_in_area": 4102,
+    "percent_in_area": 10.787923416789397,
+    "grouped_nuances": 372
+  },
+  {
+    "area": "Pelagem corpo",
+    "code": "I",
+    "hex": "#373944",
+    "rgb": [
+      55,
+      57,
+      68
+    ],
+    "count_in_area": 402,
+    "percent_in_area": 1.057227014517147,
+    "grouped_nuances": 165
+  },
+  {
+    "area": "Grama",
+    "code": "A",
+    "hex": "#276630",
+    "rgb": [
+      39,
+      102,
+      48
+    ],
+    "count_in_area": 1647,
+    "percent_in_area": 5.046574335090084,
+    "grouped_nuances": 390
+  },
+  {
+    "area": "Grama",
+    "code": "E",
+    "hex": "#307232",
+    "rgb": [
+      48,
+      114,
+      50
+    ],
+    "count_in_area": 971,
+    "percent_in_area": 2.9752420639784285,
+    "grouped_nuances": 244
+  },
+  {
+    "area": "Grama",
+    "code": "I",
+    "hex": "#62A139",
+    "rgb": [
+      98,
+      161,
+      57
+    ],
+    "count_in_area": 589,
+    "percent_in_area": 1.804755484740777,
+    "grouped_nuances": 201
+  },
+  {
+    "area": "Grama",
+    "code": "H",
+    "hex": "#BED550",
+    "rgb": [
+      190,
+      213,
+      80
+    ],
+    "count_in_area": 632,
+    "percent_in_area": 1.936511827429832,
+    "grouped_nuances": 165
+  },
+  {
+    "area": "Grama",
+    "code": "G",
+    "hex": "#235E2D",
+    "rgb": [
+      35,
+      94,
+      45
+    ],
+    "count_in_area": 769,
+    "percent_in_area": 2.356293663439147,
+    "grouped_nuances": 229
+  },
+  {
+    "area": "Sorriso",
+    "code": "B",
+    "hex": "#251415",
+    "rgb": [
+      37,
+      20,
+      21
+    ],
+    "count_in_area": 685,
+    "percent_in_area": 12.859020086352544,
+    "grouped_nuances": 149
+  },
+  {
+    "area": "Sorriso",
+    "code": "F",
+    "hex": "#4D2E1D",
+    "rgb": [
+      77,
+      46,
+      29
+    ],
+    "count_in_area": 329,
+    "percent_in_area": 6.176084099868594,
+    "grouped_nuances": 156
+  },
+  {
+    "area": "Sorriso",
+    "code": "G",
+    "hex": "#522620",
+    "rgb": [
+      82,
+      38,
+      32
+    ],
+    "count_in_area": 260,
+    "percent_in_area": 4.880795945184907,
+    "grouped_nuances": 123
+  },
+  {
+    "area": "Sorriso",
+    "code": "D",
+    "hex": "#41221C",
+    "rgb": [
+      65,
+      34,
+      28
+    ],
+    "count_in_area": 428,
+    "percent_in_area": 8.034541017458231,
+    "grouped_nuances": 160
+  },
+  {
+    "area": "Sorriso",
+    "code": "C",
+    "hex": "#371F19",
+    "rgb": [
+      55,
+      31,
+      25
+    ],
+    "count_in_area": 529,
+    "percent_in_area": 9.930542519241598,
+    "grouped_nuances": 179
+  }
+]
